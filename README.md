@@ -1,7 +1,5 @@
 # mineria
 
-​
-Web
 https://es.bcoiner.com
 
 
